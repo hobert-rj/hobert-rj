@@ -15,14 +15,14 @@
 <a href="https://www.linkedin.com/in/hossein-rajabi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hossein Rajabi LinkedIn" height="30" width="40" /></a>
 Feel free to connect with me on LinkedIn. Let's share thoughts and ideas!
 
-<!--
+
 #### A Glimpse of Me
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1.2rem;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobert-rj&layout=compact" alt="Most Used Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=hobert-rj&show_icons=true" alt="Rank" />
+    <img src="https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-blush-six-41.vercel.app/api?username=hobert-rj&theme=tokyonight&show_icons=true&show=reviews&hide=issues&layout=compact" alt="Rank" />
 </div>
--->
+
 
 <br>
 Let's create, innovate, and make an impact together! 🚀
