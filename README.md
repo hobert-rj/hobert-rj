@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-    I'm Hossein, a passionate programmer diving deep into the world of backend development. My coding journey is fueled by a love for crafting efficient and elegant solutions.
+I'm Hossein Rajabi, a developer who has evolved from a strong foundation in frontend development to becoming a versatile full-stack developer. My coding journey is defined by a fervent commitment to crafting elegant and efficient solutions, with a recent focus on diving deep into the intricacies of backend development.
 </p>
 
 <ul>
