@@ -12,12 +12,12 @@
 
 #### Connect with me
 
-<a href="https://github.com/hobert-rj/hobert-rj/assets/96938810/8d7edc06-10a6-4763-9693-1a29a2a572bf#gh-dark-mode-only" target="blank">
-    <img align="center" src="https://github.com/hobert-rj/hobert-rj/assets/96938810/1199ef56-47e5-49f7-8e99-e30f22de2d68" alt="Hossein Rajabi LinkedIn" height="30" width="40" />
+<a href="https://www.linkedin.com/in/hossein-rajabi/#gh-dark-mode-only" target="blank">
+    <img align="center" src="https://github.com/hobert-rj/hobert-rj/assets/96938810/1199ef56-47e5-49f7-8e99-e30f22de2d68#gh-dark-mode-only" alt="Hossein Rajabi LinkedIn" height="30" width="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/hossein-rajabi/#gh-light-mode-only" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hossein Rajabi LinkedIn" height="30" width="40" />
+    <img align="center" src="https://github.com/hobert-rj/hobert-rj/assets/96938810/0e5a316e-255a-4ea6-a8f1-e4a1de0b5c29#gh-light-mode-only" alt="Hossein Rajabi LinkedIn" height="30" width="40" />
 </a>
 Feel free to connect with me on LinkedIn. Let's share thoughts and ideas!
 
