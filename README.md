@@ -24,11 +24,11 @@ Feel free to connect with me on LinkedIn. Let's share thoughts and ideas!
 
 #### A Glimpse of Me
 
-[![Rank](https://github-readme-stats-blush-six-41.vercel.app/api?username=hobert-rj&show_icons=true&show=reviews&hide=issues&layout=compact&theme=dark)](https://github.com/hobert-rj#gh-dark-mode-only)
-[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true&theme=dark)](https://github.com/hobert-rj#gh-dark-mode-only)
+[![Rank](https://github-readme-stats-blush-six-41.vercel.app/api?username=hobert-rj\&show_icons=true\&show=reviews\&hide=issues\&layout=compact\&theme=dark)](https://github.com/hobert-rj#gh-dark-mode-only)
+[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=dark)](https://github.com/hobert-rj#gh-dark-mode-only)
 
-[![Rank](https://github-readme-stats-blush-six-41.vercel.app/api?username=hobert-rj&show_icons=true&show=reviews&hide=issues&layout=compact&theme=default)](https://github.com/hobert-rj#gh-light-mode-only)
-[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true&theme=default)](https://github.com/hobert-rj#gh-light-mode-only)
+[![Rank](https://github-readme-stats-blush-six-41.vercel.app/api?username=hobert-rj\&show_icons=true\&show=reviews\&hide=issues\&layout=compact\&theme=default)](https://github.com/hobert-rj#gh-light-mode-only)
+[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=default)](https://github.com/hobert-rj#gh-light-mode-only)
 
 <br>
 Let's create, innovate, and make an impact together! 🚀
