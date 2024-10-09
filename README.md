@@ -1,13 +1,17 @@
 ### Hi there 👋
 
 <p>
-I'm Hossein Rajabi, a dedicated full-stack developer with a strong background in frontend and backend technologies. Over the course of my journey, I've mastered a wide range of tools and frameworks, enabling me to create seamless, end-to-end solutions. My focus is on building efficient, scalable applications that deliver both exceptional user experiences and robust backend functionality.
+I'm Hossein Rajabi, a passionate full-stack developer with a strong background in both frontend and backend technologies. I love crafting seamless, efficient solutions and have honed my skills across a wide range of tools and frameworks. My goal is to build scalable, user-friendly applications that are as robust behind the scenes as they are engaging for users.
+</p>
+
+<p>
+Recently, I've been diving deeper into backend architectures and database optimization, always looking for new challenges to push the boundaries of what's possible.
 </p>
 
 <ul>
-    <li>🔭 Diving into full-stack development, from frontend interfaces to backend architecture.</li>
-    <li>💬 Angular, Node.js, TypeScript, Nest.js, PostgreSQL, MongoDB, MySQL, Elasticsearch, .NET, Python, React - always eager to discuss these technologies.</li>
-    <li>📫 Reach out at <strong>hosseinrajabi125@gmail.com</strong></li>
+    <li>🔭 Currently focused on optimizing performance in full-stack applications, from frontend to backend infrastructure.</li>
+    <li>💬 Angular, Node.js, TypeScript, Nest.js, PostgreSQL, MongoDB, MySQL, Elasticsearch, .NET, Python, React - I’m always happy to chat about these technologies or anything else dev-related!</li>
+    <li>📫 You can reach me at <strong>hosseinrajabi125@gmail.com</strong></li>
 </ul>
 
 #### Connect with me
