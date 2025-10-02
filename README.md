@@ -1,18 +1,67 @@
-### Hi there 👋
+# Hi there 👋
 
-<p>
-I'm Hossein Rajabi, a passionate full-stack developer with a strong background in both frontend and backend technologies. I love crafting seamless, efficient solutions and have honed my skills across a wide range of tools and frameworks. My goal is to build scalable, user-friendly applications that are as robust behind the scenes as they are engaging for users.
-</p>
+I'm **Hossein Rajabi**, a versatile **Full-Stack Engineer** focused on developing scalable, high-performance applications. I thrive in complex environments, owning the entire development lifecycle from robust backend architectures to engaging frontend experiences. My approach is to combine modern polyglot stacks with resilient infrastructure to deliver solutions that are efficient and future-proof.
 
-<p>
-Recently, I've been diving deeper into backend architectures and database optimization, always looking for new challenges to push the boundaries of what's possible.
-</p>
+---
 
-<ul>
-    <li>🔭 Currently focused on optimizing performance in full-stack applications, from frontend to backend infrastructure.</li>
-    <li>💬 Angular, Node.js, TypeScript, Nest.js, PostgreSQL, MongoDB, MySQL, Elasticsearch, .NET, Python, React - I’m always happy to chat about these technologies or anything else dev-related!</li>
-    <li>📫 You can reach me at <strong>hosseinrajabi125@gmail.com</strong></li>
-</ul>
+## 💻 Core Expertise: The Polyglot Stack
+
+My technical foundation spans across multiple stacks and platforms, ensuring a solution is built using the right tools for the job.
+
+### Backend & Languages ⚙️
+
+Deep experience building high-performance services and APIs.
+* **Frameworks:** **Nest.js**, **Express**, **Node.js/TypeScript**
+* **Languages:** **Python**, **Go**, **C++**, and various **.NET** flavors.
+
+### Frontend & UI ⚛️
+
+Crafting intuitive, responsive, and modern user interfaces.
+* **Frameworks:** **React**, **Next.js** (for full-stack capabilities), **Angular**
+
+### Messaging & Data Flow 📨
+
+Architecting asynchronous and decoupled microservices for high throughput.
+* **Brokers:** **Kafka**, **RabbitMQ**, **AWS SQS**
+
+### Data & Storage 💾
+
+Expertise in managing and querying diverse data structures.
+* **SQL/NoSQL:** **PostgreSQL**, **MySQL**, **MongoDB**
+* **Search/Analytics:** **Elasticsearch**
+
+### DevOps & Cloud Infrastructure ☁️
+
+Implementing containerization, orchestration, and continuous, automated deployment.
+* **Tools & Practices:** **Docker**, **Docker Swarm**, **GitOps**, **CI/CD**
+* **Cloud Platforms:** **AWS**, **Google Cloud**
+
+---
+
+## ✨ Specialties & Current Focus
+
+I focus on extending application capabilities through complex integrations and emerging technologies.
+
+### Integrations 🔗
+
+Experienced in incorporating crucial third-party services:
+* **AI/ML** services integration.
+* Various **Social Media APIs**.
+* Full-cycle email management with **SendGrid** and advanced email templating.
+
+### Exploration & Learning 🧠
+
+Actively diving deeper into cutting-edge domains:
+* **Machine Learning (ML)** model development.
+* **Cryptocurrency/Blockchain** coding.
+
+---
+
+## 🎯 Connect with Me
+
+* 🔭 **Currently focused on:** Optimizing large-scale data and backend architectures for performance.
+* 💬 **Happy to discuss:** Systems architecture, scalability, or the latest developments in **TypeScript** and **Go**.
+* 📫 **Reach me at:** **hosseinrajabi125@gmail.com**
 
 #### Connect with me
 
