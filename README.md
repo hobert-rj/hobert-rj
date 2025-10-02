@@ -17,7 +17,7 @@ Deep experience building high-performance services and APIs.
 ### Frontend & UI ⚛️
 
 Crafting intuitive, responsive, and modern user interfaces.
-* **Frameworks:** **React**, **Next.js** (for full-stack capabilities), **Angular**
+* **Frameworks:** **Angular**, **Angular SSR**, **React**, **Next.js**
 
 ### Messaging & Data Flow 📨
 
@@ -32,8 +32,9 @@ Expertise in managing and querying diverse data structures.
 
 ### DevOps & Cloud Infrastructure ☁️
 
-Implementing containerization, orchestration, and continuous, automated deployment.
-* **Tools & Practices:** **Docker**, **Docker Swarm**, **GitOps**, **CI/CD**
+Implementing containerization, orchestration, continuous delivery, and full-stack observability.
+* **Tools & Practices:** **Docker**, **Docker Swarm**, **GitOps**, **CI/CD with GitHub Actions**
+* **Monitoring & Logging:** **Grafana** (Data Visualization), **Loki** (Log Aggregation)
 * **Cloud Platforms:** **AWS**, **Google Cloud**
 
 ---
@@ -57,13 +58,7 @@ Actively diving deeper into cutting-edge domains:
 
 ---
 
-## 🎯 Connect with Me
-
-* 🔭 **Currently focused on:** Optimizing large-scale data and backend architectures for performance.
-* 💬 **Happy to discuss:** Systems architecture, scalability, or the latest developments in **TypeScript** and **Go**.
-* 📫 **Reach me at:** **hosseinrajabi125@gmail.com**
-
-#### Connect with me
+#### 🎯 Connect with Me
 
 <a href="https://www.linkedin.com/in/hossein-rajabi/#gh-dark-mode-only" target="blank">
     <img align="center" src="https://github.com/hobert-rj/hobert-rj/assets/96938810/1199ef56-47e5-49f7-8e99-e30f22de2d68#gh-dark-mode-only" alt="Hossein Rajabi LinkedIn" height="30" width="40" />
