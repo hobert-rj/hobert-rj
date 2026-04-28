@@ -1,46 +1,51 @@
 # Hi there 👋
 
-I'm **Hossein Rajabi**, a **Computer Engineer** focused on **AI, Robotics, and Smart Systems**. With a dual-degree background in Computer Engineering and Industrial Design, I specialize in bridging the gap between scalable, high-performance software architectures and the physical constraints of the real world. I thrive on deploying computationally heavy AI algorithms into practical, high-traffic production environments.
+I'm **Hossein Rajabi**, a **Senior Full-Stack \& Systems Engineer** with a passion for bridging the gap between scalable software and intelligent systems. 
+
+While my current core expertise lies in architecting robust cloud infrastructures, resilient microservices, and high-performance backend systems, my academic background in both **Computer Engineering** and **Industrial Design** has driven a deep, growing interest in **AI Integration, Smart Manufacturing, and Robotics**. I thrive in complex environments, combining modern polyglot stacks with real-world hardware constraints to build solutions that are not just efficient, but future-proof.
 
 ---
 
-## 💻 Core Expertise: The Hardware-to-Cloud Stack
+## 💻 Core Expertise: The Engineering Stack
 
-My technical foundation spans across infrastructure, AI integration, and core software engineering, ensuring systems are both mathematically sound and practically deployable.
+My technical foundation spans across multiple layers, prioritizing architecture, scalability, and seamless data flow.
 
-### ☁️ Cloud & System Architecture
-Architecting asynchronous, decoupled microservices and resilient infrastructure.
-* **Cloud & DevOps:** **AWS**, **GCP**, **Docker**, **Docker Swarm**, **GitOps**, **CI/CD**
-* **Messaging:** **Kafka**, **RabbitMQ**
-* **Architecture:** Microservices, Event-Driven Systems, High-Availability
+### Cloud & Architecture ☁️
+Deep experience in deploying and orchestrating high-uptime environments.
+* **Infrastructure & CI/CD:** AWS, GCP, Docker, Docker Swarm, GitOps
+* **Architecture:** Microservices, Distributed Systems
 
-### 🧠 AI & Data Integration
-Maximizing hardware utilization to deploy edge AI and data-heavy pipelines.
-* **AI Tools:** **OpenVINO**, **Whisper**, **LLM Integration**, **Prompt Engineering**
-* **Data Processing:** **Python**, **FFMPEG**, **Puppeteer**
+### Software Engineering ⚙️
+Building robust backends and dynamic, responsive frontends.
+* **Backend:** Node.js/TypeScript, Nest.js, Python, Go, C++, C#
+* **Frontend:** React.js, Next.js, Angular (SSR)
 
-### ⚙️ Software Engineering (Backend & Frontend)
-Building high-performance services, APIs, and modern user interfaces.
-* **Languages:** **JavaScript/TypeScript**, **Go**, **C++**, **C#**
-* **Frameworks:** **Node.js**, **Nest.js**, **React.js**, **Angular**, **Next.js**
+### AI & Data Integration 🤖
+Deploying computationally heavy algorithms and intelligent pipelines in production.
+* **AI/ML Tools:** LLM Integration, Prompt Engineering, Whisper, OpenVINO
+* **Processing:** FFMPEG, Puppeteer, concurrent CPU/GPU utilization
 
-### 💾 Databases & Network Infrastructure
-Managing diverse data structures and maintaining secure, optimized data flow.
-* **Databases:** **PostgreSQL**, **MongoDB**, **SQL Server**, **Elastic Search**
+### Messaging & Data Flow 📨
+Architecting asynchronous and decoupled systems for high throughput.
+* **Brokers & Queues:** Kafka, RabbitMQ
+
+### Databases 💾
+Expertise in managing, querying, and analyzing diverse data structures.
+* **SQL/NoSQL:** PostgreSQL, SQL Server, MongoDB
+* **Search:** Elastic Search
+
+### Network Infrastructure 🌐
 * **Networking:** Advanced routing, CDN configurations, traffic analysis, and proxy management.
-
-### 🛠️ Hardware & Industrial Design
-Understanding the physical world for robotics and smart manufacturing applications.
-* **Skills:** Industrial Product Design, Manufacturing Fabrication Processes, CAD Basics.
 
 ---
 
 ## ✨ Specialties & Current Focus
 
-I am actively focused on expanding my research and engineering capabilities in:
-* **Edge AI & Hardware Optimization:** Maximizing concurrent CPU/GPU utilization for efficient AI processing in physical and autonomous systems.
-* **Smart Manufacturing:** Applying scalable software architecture to industrial production lines.
-* **Advanced Data Pipelines:** Designing robust crawlers, automated sentiment analysis engines, and real-time message queuing systems.
+I focus on extending application capabilities through complex architectures and emerging technologies:
+
+* **Scalable Architectures:** Building 99.9% uptime microservices and resilient message queuing systems for enterprise-level applications.
+* **Applied AI Pipelines:** Integrating LLMs for automated data analysis and optimizing hardware utilization for heavy tasks like video/audio processing.
+* **The Physical-Digital Bridge:** Leveraging my Industrial Design background to understand hardware and fabrication constraints, paving the way for my transition into academic and professional research in **Autonomous Systems and Robotics**.
 
 ---
 
@@ -59,10 +64,10 @@ Feel free to connect with me on LinkedIn. Let's share thoughts and ideas!
 #### A Glimpse of Me
 
 [![Rank](https://github-readme-stats-blush-six-41.vercel.app/api?username=hobert-rj\&show_icons=true\&show=reviews\&hide=issues\&layout=compact\&theme=dark)](https://github.com/hobert-rj#gh-dark-mode-only)
-[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=dark)](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj#gh-dark-mode-only)
+[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=dark)](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=dark#gh-dark-mode-only)
 
 [![Rank](https://github-readme-stats-blush-six-41.vercel.app/api?username=hobert-rj\&show_icons=true\&show=reviews\&hide=issues\&layout=compact\&theme=default)](https://github.com/hobert-rj#gh-light-mode-only)
-[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=default)](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj#gh-light-mode-only)
+[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=default)](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=default#gh-light-mode-only)
 
 <br>
 Let's create, innovate, and make an impact together! 🚀
