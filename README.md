@@ -1,60 +1,46 @@
 # Hi there 👋
 
-I'm **Hossein Rajabi**, a versatile **Full-Stack Engineer** focused on developing scalable, high-performance applications. I thrive in complex environments, owning the entire development lifecycle from robust backend architectures to engaging frontend experiences. My approach is to combine modern polyglot stacks with resilient infrastructure to deliver solutions that are efficient and future-proof.
+I'm **Hossein Rajabi**, a **Computer Engineer** focused on **AI, Robotics, and Smart Systems**. With a dual-degree background in Computer Engineering and Industrial Design, I specialize in bridging the gap between scalable, high-performance software architectures and the physical constraints of the real world. I thrive on deploying computationally heavy AI algorithms into practical, high-traffic production environments.
 
 ---
 
-## 💻 Core Expertise: The Polyglot Stack
+## 💻 Core Expertise: The Hardware-to-Cloud Stack
 
-My technical foundation spans across multiple stacks and platforms, ensuring a solution is built using the right tools for the job.
+My technical foundation spans across infrastructure, AI integration, and core software engineering, ensuring systems are both mathematically sound and practically deployable.
 
-### Backend & Languages ⚙️
+### ☁️ Cloud & System Architecture
+Architecting asynchronous, decoupled microservices and resilient infrastructure.
+* **Cloud & DevOps:** **AWS**, **GCP**, **Docker**, **Docker Swarm**, **GitOps**, **CI/CD**
+* **Messaging:** **Kafka**, **RabbitMQ**
+* **Architecture:** Microservices, Event-Driven Systems, High-Availability
 
-Deep experience building high-performance services and APIs.
-* **Frameworks:** **Nest.js**, **Express**, **Node.js/TypeScript**
-* **Languages:** **Python**, **Go**, **C++**, and various **.NET** flavors.
+### 🧠 AI & Data Integration
+Maximizing hardware utilization to deploy edge AI and data-heavy pipelines.
+* **AI Tools:** **OpenVINO**, **Whisper**, **LLM Integration**, **Prompt Engineering**
+* **Data Processing:** **Python**, **FFMPEG**, **Puppeteer**
 
-### Frontend & UI ⚛️
+### ⚙️ Software Engineering (Backend & Frontend)
+Building high-performance services, APIs, and modern user interfaces.
+* **Languages:** **JavaScript/TypeScript**, **Go**, **C++**, **C#**
+* **Frameworks:** **Node.js**, **Nest.js**, **React.js**, **Angular**, **Next.js**
 
-Crafting intuitive, responsive, and modern user interfaces.
-* **Frameworks:** **Angular**, **Angular SSR**, **React**, **Next.js**
+### 💾 Databases & Network Infrastructure
+Managing diverse data structures and maintaining secure, optimized data flow.
+* **Databases:** **PostgreSQL**, **MongoDB**, **SQL Server**, **Elastic Search**
+* **Networking:** Advanced routing, CDN configurations, traffic analysis, and proxy management.
 
-### Messaging & Data Flow 📨
-
-Architecting asynchronous and decoupled microservices for high throughput.
-* **Brokers:** **Kafka**, **RabbitMQ**, **AWS SQS**
-
-### Data & Storage 💾
-
-Expertise in managing and querying diverse data structures.
-* **SQL/NoSQL:** **PostgreSQL**, **MySQL**, **MongoDB**
-* **Search/Analytics:** **Elasticsearch**
-
-### DevOps & Cloud Infrastructure ☁️
-
-Implementing containerization, orchestration, continuous delivery, and full-stack observability.
-* **Tools & Practices:** **Docker**, **Docker Swarm**, **GitOps**, **CI/CD with GitHub Actions**
-* **Monitoring & Logging:** **Grafana** (Data Visualization), **Loki** (Log Aggregation)
-* **Cloud Platforms:** **AWS**, **Google Cloud**
+### 🛠️ Hardware & Industrial Design
+Understanding the physical world for robotics and smart manufacturing applications.
+* **Skills:** Industrial Product Design, Manufacturing Fabrication Processes, CAD Basics.
 
 ---
 
 ## ✨ Specialties & Current Focus
 
-I focus on extending application capabilities through complex integrations and emerging technologies.
-
-### Integrations 🔗
-
-Experienced in incorporating crucial third-party services:
-* **AI/ML** services integration.
-* Various **Social Media APIs**.
-* Full-cycle email management with **SendGrid** and advanced email templating.
-
-### Exploration & Learning 🧠
-
-Actively diving deeper into cutting-edge domains:
-* **Machine Learning (ML)** model development.
-* **Cryptocurrency/Blockchain** coding.
+I am actively focused on expanding my research and engineering capabilities in:
+* **Edge AI & Hardware Optimization:** Maximizing concurrent CPU/GPU utilization for efficient AI processing in physical and autonomous systems.
+* **Smart Manufacturing:** Applying scalable software architecture to industrial production lines.
+* **Advanced Data Pipelines:** Designing robust crawlers, automated sentiment analysis engines, and real-time message queuing systems.
 
 ---
 
@@ -73,10 +59,10 @@ Feel free to connect with me on LinkedIn. Let's share thoughts and ideas!
 #### A Glimpse of Me
 
 [![Rank](https://github-readme-stats-blush-six-41.vercel.app/api?username=hobert-rj\&show_icons=true\&show=reviews\&hide=issues\&layout=compact\&theme=dark)](https://github.com/hobert-rj#gh-dark-mode-only)
-[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=dark)](https://github.com/hobert-rj#gh-dark-mode-only)
+[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=dark)](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj#gh-dark-mode-only)
 
 [![Rank](https://github-readme-stats-blush-six-41.vercel.app/api?username=hobert-rj\&show_icons=true\&show=reviews\&hide=issues\&layout=compact\&theme=default)](https://github.com/hobert-rj#gh-light-mode-only)
-[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=default)](https://github.com/hobert-rj#gh-light-mode-only)
+[![Most Used Languages](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj\&size_weight=0.5\&count_weight=0.5\&langs_count=10\&hide_progress=true\&theme=default)](https://github-readme-stats-blush-six-41.vercel.app/api/top-langs/?username=hobert-rj#gh-light-mode-only)
 
 <br>
 Let's create, innovate, and make an impact together! 🚀
